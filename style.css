@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: lightgray;
+}
+
+.projects {
+  background-color: lightgray;
+}
+
+footer {
+  background-color: #6c757d;
+  color: white;
+  height: 60px;
+  line-height: 60px;
+}
+
+footer a:hover {
+  font-size: 18px;
+}
+
+section {
+  padding-top: 5rem;
+}
